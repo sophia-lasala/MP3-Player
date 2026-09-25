@@ -1,4 +1,4 @@
-# Raspberry Pi-Based MP3 Player
+# Portable MP3 Player
 
 A portable MP3 Player designed and created using a Raspberry Pi computer. 
 
