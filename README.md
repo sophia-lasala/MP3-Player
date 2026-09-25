@@ -23,4 +23,4 @@ After completing the casing, the next step would be to create the supply list an
 - Allow for shuffled albums and playlists
 - Allow to shift between light and dark mode
 
-Edits to design aspects to be made.
+Edits to design elements to be made.
